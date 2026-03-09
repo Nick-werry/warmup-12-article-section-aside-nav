@@ -1,0 +1,44 @@
+body {
+    background-color: aqua;
+}
+
+.site-header {
+    background-color: bisque;
+}
+
+.site-nav {
+    background-color: aquamarine;
+}
+
+.main {
+    background-color: coral;
+    padding: 40px;
+}
+
+.article {
+    background-color: darkcyan;
+}
+
+.about-the-author {
+    background-color: darkred;
+}
+
+.related-foods {
+    background-color: gold;
+}
+
+.vanilla {
+    background-color: azure;
+}
+
+.frozen-yogurt {
+    background-color: deeppink;
+}
+
+.site-footer {
+    background-color: greenyellow;
+}
+
+.footer-nav {
+    background-color: dodgerblue;
+}
